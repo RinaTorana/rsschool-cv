@@ -2,10 +2,10 @@
 
 # Contact Details
 
-* :email: **Email:** adawong@classified.com
-* :phone: **Phone:** classified
-* :exclamation: **Linkedin:** classified
-* :city_sunset: **Location:** classified
+* **Email:** adawong@classified.com
+* **Phone:** classified
+* **Linkedin:** classified
+* **Location:** classified
 
 # About
 I am an extremely high-skilled operative with extensive experience in espionage, infiltration & problem-solving. I am well known for for my agility, intelligence and abitlity to work effectively in stressfull situations have earned me a reputation in world-class espionage companies. 
@@ -29,9 +29,9 @@ My observational, interpersonal sklls as well as exceptional knowledge of advanc
 
 
 # Languages
-* :us: **English:** Native or bilingual proficiency
-* :jp: **Japanese:** Native or bilingual proficiency
-* :es: **Spanish:** Professional working proficiency
+* **English:** Native or bilingual proficiency
+* **Japanese:** Native or bilingual proficiency
+* **Spanish:** Professional working proficiency
 
 # Skills
 * Espionage
